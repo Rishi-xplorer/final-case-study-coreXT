@@ -18,7 +18,7 @@ Clone this repo and run following command for starting the app:
 
 3.npm start
 
-## TO run in production mode:
+## To run in production mode:
 
 1.npm install
 
